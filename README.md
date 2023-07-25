@@ -6,7 +6,7 @@
 
 ![Live Site](./screenshot.png)
 
-[Click Here](https://incandescent-fox-06b84a.netlify.app/) to visit the under construction site! 
+[Click Here](https://www.cloverdesignhq.com) to visit the under construction site! 
 
 <br/>
 
